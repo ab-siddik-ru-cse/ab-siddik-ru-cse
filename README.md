@@ -97,6 +97,48 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 ---
 
 </br>
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="30%" align="center">🚀 Project Name</th>
+        <th width="45%" align="center">📝 Description</th>
+        <th width="25%" align="center">🛠️ Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="YOUR_LINK_HERE"><b>Pension System</b></a>
+        </td>
+        <td>A secure, decentralized <b>blockchain-based</b> pension management system ensuring transparency and security.</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="YOUR_LINK_HERE"><b>Digi Tools</b></a>
+        </td>
+        <td>A comprehensive suite of digital utility tools built for modern web efficiency and seamless user experience.</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/MERN-Stack-%234ea94b.svg?style=flat" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="YOUR_LINK_HERE"><b>English Janala</b></a>
+        </td>
+        <td>An interactive language learning platform designed to help students master English with modern UI.</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <!-- My Performance & Activity -->
 
