@@ -1,26 +1,104 @@
-<h1 align="center">Hi 👋, I'm AB Siddik</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-siddik-ru-cse&label=Profile%20views&color=0e75b6&style=flat" alt="ab-siddik-ru-cse" /> </p>
-
-- 🔭 I’m currently working on **pension-management-system-using-blockchain**
-
-- 🌱 I’m currently learning **Next.js,Blockchain**
-
-- 💬 Ask me about **MERN , Blockchain**
-
-- 📫 How to reach me **absiddik.ru.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ab-siddik-ru-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ab-siddik-ru-cse/" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=AB%20Siddik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+<h1 align="center">
+  Hi 👋, I'm AB Siddik
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-siddik-ru-cse&show_icons=true&locale=en&layout=compact" alt="ab-siddik-ru-cse" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=26&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+AB+Siddik;Full+Stack+Developer;Blockchain+Enthusiast;Always+Learning+New+Things&duration=3000&pause=1000" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ab-siddik-ru-cse&show_icons=true&locale=en" alt="ab-siddik-ru-cse" /></p>
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-siddik-ru-cse&" alt="ab-siddik-ru-cse" /></p>
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Pension Management System using Blockchain**
+- 🌱 I’m currently learning **Next.js & Blockchain**
+- 💬 Ask me about **MERN Stack, Blockchain**
+- 📫 How to reach me **absiddik.ru.cse@gmail.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/ab-siddik-ru-cse" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
+
+---
+
+### 🧠 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,css,docker,express,firebase,html,js,mongodb,nodejs,python,react,tailwind" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+🚀 **Pension Management System (Blockchain)**  
+👉 Smart contract based secure pension system  
+👉 Built with Hyperledger Fabric  
+
+🌐 **English Learning App**  
+👉 Learn vocabulary with pronunciation  
+👉 Includes speaking feature  
+
+🛒 **Modern E-commerce UI (Tailwind)**  
+👉 Clean & responsive shopping cart design  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ab-siddik-ru-cse&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-siddik-ru-cse&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-siddik-ru-cse&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab-siddik-ru-cse&theme=tokyo-night" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ab-siddik-ru-cse&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🔥 Fun Fact
+
+💡 I love building real-world problem solving apps using **Blockchain + MERN**
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
+</p>
