@@ -3,6 +3,8 @@
   <img src="./assets/ab-siddik-banner.png" />
 </p>
 
+<!-- Heading -->
+
 <h1 align="center"> Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35px"> I'm <span style="color:#36BCF7; font-weight:bold;"> AB Siddik </span>
 </h1>
 
@@ -13,10 +15,12 @@
 <p align="center">
   <img height="320px" width="100%" src="./assets/coding.gif"/>
 </p>
-
 </br>
 
-<h1><span style="color:#36BCF7; font-weight:bold;"> About Me </span></h1>
+<!-- About me -->
+
+<h1><span style="color:#36BCF7; font-weight:bold;">🚀 About Me </span></h1>
+</br>
 
 I’m a passionate **Full Stack Developer** with a strong interest in building scalable and real-world applications.  
 Currently, I’m focused on integrating **Blockchain technology** with modern web solutions to solve practical problems.
@@ -28,32 +32,38 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 - ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
 
 📫 Reach me at: **absiddik.ru.cse@gmail.com**
-
 </br>
+
+<!-- Connect with me -->
+
 <h1><span style="color:#36BCF7; font-weight:bold;"> 🌐 Connect with me </span></h1>
 
 <div align="center">
 
-  <a href="तुम्हारा_ফেসবুক_লিঙ্ক" target="_blank">
+  <a href="https://www.facebook.com/absiddik.ru.cse" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="তোমার_লিঙ্কডইন_লিঙ্ক" target="_blank">
+  <a href="https://www.linkedin.com/in/ab-siddik-ru-cse/?trk=public-profile-join-page" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="तुम्हारा_হোয়াটসঅ্যাপ_লিঙ্ক" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="तुम्हारा_টেলিগ্রাম_লিঙ্ক" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href=" तुम्हारा_গিটহাব_লিঙ্ক" target="_blank">
+  <a href="https://github.com/ab-siddik-ru-cse" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+</br>
+</br>
 
-</br>
-</br>
+<!-- Languages and Tools -->
+
 <h1><span style="color:#36BCF7; font-weight:bold;"> 🧠 Languages and Tools</span></h1>
+</br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,28 +83,33 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 </div>
 </br>
 
+
+<!-- Featured Projects -->
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Pension System** | A secure blockchain-based pension management system. | Solidity, React, Node.js |
+| **Digi Tools** | Brief description of your another cool project. | MERN Stack |
+| **English Janala** | Brief description of your third best project. | Next.js, Firebase |
+
 ---
 
-### 📊 GitHub Stats
+</br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ab-siddik-ru-cse&show_icons=true&theme=tokyonight" />
-</p>
+<!-- My Performance & Activity -->
+
+### 📊 My Performance & Activity
+---
+</br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-siddik-ru-cse&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-siddik-ru-cse&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab-siddik-ru-cse&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ab-siddik-ru-cse&theme=tokyonight" />
 </p>
 
 ---
@@ -106,7 +121,3 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
-</p>
