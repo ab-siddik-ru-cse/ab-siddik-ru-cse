@@ -3,21 +3,20 @@
   <img src="./assets/ab-siddik-banner.png" />
 </p>
 
-<h1 align="center"> Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35px"> I'm AB Siddik
+<h1 align="center"> Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35px"> I'm <span style="color:#36BCF7; font-weight:bold;"> AB Siddik </span>
 </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Blockchain+Developer;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<!-- Coding GIF -->
 <p align="center">
-  <img height="500px" width="100%" src="./assets/coding.gif"/>
+  <img height="320px" width="100%" src="./assets/coding.gif"/>
 </p>
 
----
+</br>
 
-### 🚀 About Me
+<h1><span style="color:#36BCF7; font-weight:bold;"> About Me </span></h1>
 
 I’m a passionate **Full Stack Developer** with a strong interest in building scalable and real-world applications.  
 Currently, I’m focused on integrating **Blockchain technology** with modern web solutions to solve practical problems.
@@ -30,68 +29,49 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 
 📫 Reach me at: **absiddik.ru.cse@gmail.com**
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  <span style="color:#22c55e; font-weight:bold;">Full Stack Developer</span> passionate about building 
-  <span style="color:#0ea5e9; font-weight:bold;">scalable</span> and 
-  <span style="color:#a855f7; font-weight:bold;">real-world applications</span>.
-</p>
-
-<p align="center">
-  Currently focused on integrating 
-  <span style="color:#f59e0b; font-weight:bold;">Blockchain</span> with 
-  <span style="color:#38bdf8; font-weight:bold;">modern web technologies</span>.
-</p>
-
-<br/>
+</br>
+<h1><span style="color:#36BCF7; font-weight:bold;"> 🌐 Connect with me </span></h1>
 
 <div align="center">
 
-🔭 <span style="color:#0ea5e9;"><b>Working on:</b></span> Pension Management System (Blockchain)  
-🌱 <span style="color:#22c55e;"><b>Learning:</b></span> Next.js & Blockchain Development  
-💬 <span style="color:#a855f7;"><b>Ask me about:</b></span> MERN Stack, REST APIs, Blockchain  
-🎯 <span style="color:#f43f5e;"><b>Goal:</b></span> Build impactful & secure applications  
-⚡ <span style="color:#facc15;"><b>Fun fact:</b></span> Turning complex problems into simple solutions  
-
+  <a href="तुम्हारा_ফেসবুক_লিঙ্ক" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="তোমার_লিঙ্কডইন_লিঙ্ক" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="तुम्हारा_হোয়াটসঅ্যাপ_লিঙ্ক" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="तुम्हारा_টেলিগ্রাম_লিঙ্ক" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href=" तुम्हारा_গিটহাব_লিঙ্ক" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<br/>
+</br>
+</br>
+<h1><span style="color:#36BCF7; font-weight:bold;"> 🧠 Languages and Tools</span></h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</div>
 
-<p align="center">
-  📫 <b>Reach me at:</b> 
-  <span style="color:#0ea5e9;">absiddik.ru.cse@gmail.com</span>
-</p>
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/ab-siddik-ru-cse" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
-
----
-
-### 🧠 Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,css,docker,express,firebase,html,js,mongodb,nodejs,python,react,tailwind" />
-</p>
-
----
-
-### 💼 Featured Projects
-
-🚀 **Pension Management System (Blockchain)**  
-👉 Smart contract based secure pension system  
-👉 Built with Hyperledger Fabric  
-
-🌐 **English Learning App**  
-👉 Learn vocabulary with pronunciation  
-👉 Includes speaking feature  
-
-🛒 **Modern E-commerce UI (Tailwind)**  
-👉 Clean & responsive shopping cart design  
+<div align="center">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+</br>
 
 ---
 
