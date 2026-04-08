@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img height="320px" width="100%" src="./assets/coding.gif"/>
+  <img height="340px" width="100%" src="./assets/coding.gif"/>
 </p>
 </br>
 
@@ -117,7 +117,7 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
         </td>
         <td>A comprehensive suite of digital utility tools built for modern web efficiency and seamless user experience.</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/MERN-Stack-%234ea94b.svg?style=flat" />
+          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
         </td>
       </tr>
       <tr>
@@ -126,8 +126,7 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
         </td>
         <td>An interactive language learning platform designed to help students master English with modern UI.</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+          <img src="https://img.shields.io/badge/HTML-CSS-%234ea94b.svg?style=flat" />
         </td>
       </tr>
     </tbody>
