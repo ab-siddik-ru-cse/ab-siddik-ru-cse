@@ -1,32 +1,67 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=AB%20Siddik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="./assets/ab-siddik-banner.png" />
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  Hi 👋, I'm AB Siddik
+<h1 align="center"> Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35px"> I'm AB Siddik
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=26&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+AB+Siddik;Full+Stack+Developer;Blockchain+Enthusiast;Always+Learning+New+Things&duration=3000&pause=1000" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Blockchain+Developer;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img height="500px" width="100%" src="./assets/coding.gif"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Pension Management System using Blockchain**
-- 🌱 I’m currently learning **Next.js & Blockchain**
-- 💬 Ask me about **MERN Stack, Blockchain**
-- 📫 How to reach me **absiddik.ru.cse@gmail.com**
+I’m a passionate **Full Stack Developer** with a strong interest in building scalable and real-world applications.  
+Currently, I’m focused on integrating **Blockchain technology** with modern web solutions to solve practical problems.
 
----
+- 🔭 Currently working on **Pension Management System using Blockchain**
+- 🌱 Exploring and learning **Next.js** and **Blockchain Development**
+- 💬 Ask me about **MERN Stack, REST APIs, and Blockchain**
+- 🎯 Goal: To build impactful, secure, and user-friendly applications
+- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
+
+📫 Reach me at: **absiddik.ru.cse@gmail.com**
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <span style="color:#22c55e; font-weight:bold;">Full Stack Developer</span> passionate about building 
+  <span style="color:#0ea5e9; font-weight:bold;">scalable</span> and 
+  <span style="color:#a855f7; font-weight:bold;">real-world applications</span>.
+</p>
+
+<p align="center">
+  Currently focused on integrating 
+  <span style="color:#f59e0b; font-weight:bold;">Blockchain</span> with 
+  <span style="color:#38bdf8; font-weight:bold;">modern web technologies</span>.
+</p>
+
+<br/>
+
+<div align="center">
+
+🔭 <span style="color:#0ea5e9;"><b>Working on:</b></span> Pension Management System (Blockchain)  
+🌱 <span style="color:#22c55e;"><b>Learning:</b></span> Next.js & Blockchain Development  
+💬 <span style="color:#a855f7;"><b>Ask me about:</b></span> MERN Stack, REST APIs, Blockchain  
+🎯 <span style="color:#f43f5e;"><b>Goal:</b></span> Build impactful & secure applications  
+⚡ <span style="color:#facc15;"><b>Fun fact:</b></span> Turning complex problems into simple solutions  
+
+</div>
+
+<br/>
+
+<p align="center">
+  📫 <b>Reach me at:</b> 
+  <span style="color:#0ea5e9;">absiddik.ru.cse@gmail.com</span>
+</p>
 
 ### 🌐 Connect with me
 
@@ -84,13 +119,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ab-siddik-ru-cse&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🔥 Fun Fact
 
