@@ -88,12 +88,6 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Pension System** | A secure blockchain-based pension management system. | Solidity, React, Node.js |
-| **Digi Tools** | Brief description of your another cool project. | MERN Stack |
-| **English Janala** | Brief description of your third best project. | Next.js, Firebase |
-
 ---
 
 </br>
@@ -108,8 +102,8 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
     </thead>
     <tbody>
       <tr>
-        <td align="center">
-          <a href="YOUR_LINK_HERE"><b>Pension System</b></a>
+        <td align="left">
+          <a href="https://github.com/ab-siddik-ru-cse/pensionApp-using_hyperledger_fabric"><b>Pension System</b></a>
         </td>
         <td>A secure, decentralized <b>blockchain-based</b> pension management system ensuring transparency and security.</td>
         <td align="center">
@@ -118,8 +112,8 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
         </td>
       </tr>
       <tr>
-        <td align="center">
-          <a href="YOUR_LINK_HERE"><b>Digi Tools</b></a>
+        <td align="left">
+          <a href="https://digi-tools-ai.netlify.app/"><b>Digi Tools</b></a>
         </td>
         <td>A comprehensive suite of digital utility tools built for modern web efficiency and seamless user experience.</td>
         <td align="center">
@@ -127,8 +121,8 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
         </td>
       </tr>
       <tr>
-        <td align="center">
-          <a href="YOUR_LINK_HERE"><b>English Janala</b></a>
+        <td align="left">
+          <a href="https://ab-siddik-ru-cse.github.io/English_Janala/"><b>English Janala</b></a>
         </td>
         <td>An interactive language learning platform designed to help students master English with modern UI.</td>
         <td align="center">
@@ -156,10 +150,11 @@ Currently, I’m focused on integrating **Blockchain technology** with modern we
 
 ---
 
+<!-- Fun Fact -->
 
 ### 🔥 Fun Fact
 
 💡 I love building real-world problem solving apps using **Blockchain + MERN**
 
----
+
 
